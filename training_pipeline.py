@@ -8,3 +8,6 @@ print(a-b)
 
 c = np.absolute(-2)
 print(a-b^c)
+
+d = 1
+print(d)

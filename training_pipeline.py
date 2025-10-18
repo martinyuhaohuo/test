@@ -11,3 +11,6 @@ print(a-b^c)
 
 d = 1
 print(d)
+
+d = np.amx([1.2])
+print(a+b+c+d)
